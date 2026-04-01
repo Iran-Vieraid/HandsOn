@@ -2,6 +2,8 @@
  Workshop SQL Server Expert 2a Edição
  Otimização de Consultas
 
+ Alteração 1
+
  Autor: Landry
 
  Hands On: 
